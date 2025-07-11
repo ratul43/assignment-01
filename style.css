@@ -13,6 +13,7 @@ li {
 
 a{
     text-decoration: none;
+    color: #8987A1;
 }
 
 .bg-image{
@@ -142,6 +143,36 @@ a{
     color: white;
 }
 
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid red;
+}
+
+
+.footer-bg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 530px;
+    
+}
+
+
+.footer-nav{
+    display: flex;
+    gap: 20px;
+}
+
+
+.footer-title{
+    font-size: 100px;
+    font-weight: bold;
+    color: #4E47FF;
+    
+}
 
 
 
