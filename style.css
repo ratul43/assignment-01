@@ -73,11 +73,20 @@ a{
 }
 
 
+/* second section */
 
+.bg-2{
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
 
-
-
-
+.two-title{
+    font-size: 42px;
+    font-weight: bold;
+}
 
 
 
