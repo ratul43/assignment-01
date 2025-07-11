@@ -103,7 +103,6 @@ a{
     justify-content: flex-start;
     align-items: center;
     gap: 100px;
-    border: 5px solid red;
 }
 
 .form-section{
@@ -147,7 +146,7 @@ a{
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 5px solid red;
+    
 }
 
 
