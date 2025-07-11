@@ -88,6 +88,61 @@ a{
     font-weight: bold;
 }
 
+/* 
+.bg-3{
+    background-color: #4E47FF;
+    opacity: 10%;
+    margin: 140px;
+} */
+
+
+.bg-four{
+    margin: 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 100px;
+    border: 5px solid red;
+}
+
+.form-section{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.four-title{
+    font-size: 90px;
+    font-weight: bold;
+    
+}
+
+.form-style{
+    margin-bottom: 10px;
+    margin-top: 5px;
+   height: 40px;
+   border: none;
+   background-color: rgb(223, 223, 223);
+   border-radius: 5px;
+   width: 350px;
+   
+}
+
+.form-text {
+    font-weight: 600;
+    
+}
+
+.message{
+    height: 100px;
+}
+
+.submit-style{
+    background-color: #4E47FF;
+    color: white;
+}
+
+
 
 
 
